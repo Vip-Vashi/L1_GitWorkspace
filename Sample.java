@@ -4,5 +4,6 @@ class Sample
     {
       System.out.println("Git repo is created ");
       System.out.println("Modified By Branch 1");
+      System.out.println("Modified By Branch 2");
     }
   }
